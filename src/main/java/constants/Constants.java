@@ -7,7 +7,7 @@ public class Constants {
     public static final String AUTH_USER_API = "api/auth/user";
     public static final int SECONDS_TIMEOUT = 21;
     public static final String CHROME_PATH = "src/test/resources/browser.properties";
-    public static final String YANDEX_PATH = "src/test/resources/yandexdriver.exe";
+    public static final String YANDEX_PATH = "/Users/olga/webdriver/yandex/yandexdriver";
 
 }
 

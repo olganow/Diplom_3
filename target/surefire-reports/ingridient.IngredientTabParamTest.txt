@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ingridient.IngredientTabParamTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 22.168 s - in ingridient.IngredientTabParamTest
